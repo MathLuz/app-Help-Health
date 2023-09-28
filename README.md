@@ -10,7 +10,7 @@ Criado e desenvolvido como projeto integrador
 
 ---
 
-## [`Baixe o APP :octocat: download`](#)
+## [`> Baixe o APP <`](#)
 > Só é possível baixar em dispositivos Android, e terá que permitir a instalação, garantimos a segurança de que o arquivo não possui nem um tipo de ameaça, é um projeto simples escolar para finalidade de estudo do Flutter, Dart, UX e UI mobile.
 
 ---
