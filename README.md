@@ -16,7 +16,7 @@ Criado e desenvolvido como projeto integrador
 ---
 
 ### Desenvolvedores:
-  - [Vinicius Leadro;](https://www.linkedin.com/in/vinicius-leandro-de-araujo-bernardes-765a49254/)
+  - [Vinicius Leandro;](https://www.linkedin.com/in/vinicius-leandro-de-araujo-bernardes-765a49254/)
   - [Matheus Luz;](https://www.linkedin.com/in/andressa-pacheco-sim%C3%B5es/)
   - [Pedro Baki;](https://www.linkedin.com/in/pedro-baki-bb1b30215/)
   - [Ananda Teixeira;](https://www.linkedin.com/in/ananda-teixeira-0773ba169/)
