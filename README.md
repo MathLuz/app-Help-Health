@@ -1,6 +1,6 @@
 # Aplicativo Help Health
 
-Criado e desenvolvido como projeto integrador
+Aplicativo criado e desenvolvido como projeto integrador onde simula as informações atualzadas de um hospital público
 
 ---
 
