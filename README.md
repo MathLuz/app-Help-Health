@@ -22,4 +22,4 @@ Aplicativo criado e desenvolvido como projeto integrador onde simula as informa√
   - [Ananda Teixeira;](https://www.linkedin.com/in/ananda-teixeira-0773ba169/)
   - [Andressa Sim√µes.](https://www.linkedin.com/in/andressa-pacheco-sim%C3%B5es/)
     
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,vscode,xd)]
+![My Skills](https://skillicons.dev/icons?i=flutter,dart,vscode,xd)
