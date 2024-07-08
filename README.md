@@ -10,7 +10,7 @@ Aplicativo criado e desenvolvido como projeto integrador onde simula as informa�
 
 ---
 
-## [`> Baixe o APP <`](https://github.com/MathLuz/app-Help-Health/raw/main/build/app/outputs/flutter-apk/app-release.apk)
+## [`> Baixe o APP <`](https://github.com/MathLuz/app-Help-Health/raw/main/build/app-release.apk)
 > Só é possível baixar em dispositivos Android, e terá que permitir a instalação, garantimos a segurança de que o arquivo não possui nem um tipo de ameaça, é um projeto simples escolar para finalidade de estudo do Flutter, Dart, UX e UI mobile.
 
 ---
@@ -23,3 +23,5 @@ Aplicativo criado e desenvolvido como projeto integrador onde simula as informa�
   - [Andressa Simões.](https://www.linkedin.com/in/andressa-pacheco-sim%C3%B5es/)
     
 ![My Skills](https://skillicons.dev/icons?i=flutter,dart,vscode,xd)
+<!-- (https://skillicons.dev) -->
+> Criado em 09/2023
