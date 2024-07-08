@@ -3,10 +3,9 @@
 .flutter-plugins
 .flutter-plugins-dependencies
 .packages
-build/
 .pub-cache/
 .flutter-versions
-
+build/
 # Não ignorar build/app/outputs/flutter-apk/app-release.apk
 !build/app/outputs/flutter-apk/
 !build/app/outputs/flutter-apk/app-release.apk
