@@ -6,8 +6,6 @@
 .pub-cache/
 .flutter-versions
 build/
-# Não ignorar build/app/outputs/flutter-apk/app-release.apk
-!build/app/outputs/flutter-apk/
 !build/app/outputs/flutter-apk/app-release.apk
 
 # IntelliJ
